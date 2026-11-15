@@ -1,688 +1,926 @@
 [
   {
-    "id": "bb416d6dc3",
-    "category": "Millets & Millet Products",
+    "id": "4a97eb948443",
     "name": "Finger Millet - Grains (Mandia)",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Millets/Rice",
+    "categoryOd": "ମିଲେଟ୍ / ଚାଉଳ",
+    "categoryHi": "मिलेट्स / चावल",
     "pack": "500 GRM",
-    "price": 60
+    "price": 60.0,
+    "image": ""
   },
   {
-    "id": "d44cb24cee",
-    "category": "Millets & Millet Products",
+    "id": "2edbacaccba5",
     "name": "Foxtail Millet - Grains",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Millets/Rice",
+    "categoryOd": "ମିଲେଟ୍ / ଚାଉଳ",
+    "categoryHi": "मिलेट्स / चावल",
     "pack": "500 GRM",
-    "price": 55
+    "price": 55.0,
+    "image": ""
   },
   {
-    "id": "97f022a411",
-    "category": "Millets & Millet Products",
+    "id": "a77249eef9d3",
     "name": "Kodo Millet - Grains",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Millets/Rice",
+    "categoryOd": "ମିଲେଟ୍ / ଚାଉଳ",
+    "categoryHi": "मिलेट्स / चावल",
     "pack": "500 GRM",
-    "price": 80
+    "price": 80.0,
+    "image": ""
   },
   {
-    "id": "f722ffec2b",
-    "category": "Millets & Millet Products",
+    "id": "acfc63d5eedf",
     "name": "Little Millet - Grains",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Millets/Rice",
+    "categoryOd": "ମିଲେଟ୍ / ଚାଉଳ",
+    "categoryHi": "मिलेट्स / चावल",
     "pack": "500 GRM",
-    "price": 110
+    "price": 110.0,
+    "image": ""
   },
   {
-    "id": "658ec44629",
-    "category": "Millets & Millet Products",
+    "id": "43cf6b22369b",
     "name": "Barnyard Miilet  - Grains",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Millets/Rice",
+    "categoryOd": "ମିଲେଟ୍ / ଚାଉଳ",
+    "categoryHi": "मिलेट्स / चावल",
     "pack": "500 GRM",
-    "price": 85
+    "price": 85.0,
+    "image": ""
   },
   {
-    "id": "15a03e84bf",
-    "category": "Millets & Millet Products",
+    "id": "b935e218bf46",
     "name": "Browntop Millet  - Grains",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Millets/Rice",
+    "categoryOd": "ମିଲେଟ୍ / ଚାଉଳ",
+    "categoryHi": "मिलेट्स / चावल",
     "pack": "500 GRM",
-    "price": 110
+    "price": 110.0,
+    "image": ""
   },
   {
-    "id": "a27e0ccdd7",
-    "category": "Millets & Millet Products",
+    "id": "e039ad8b1d57",
     "name": "Quinoa Millet  - Grains",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Millets/Rice",
+    "categoryOd": "ମିଲେଟ୍ / ଚାଉଳ",
+    "categoryHi": "मिलेट्स / चावल",
     "pack": "500 GRM",
-    "price": 110
+    "price": 110.0,
+    "image": ""
   },
   {
-    "id": "3fe49eee71",
-    "category": "Millets & Millet Products",
+    "id": "b0f73cbc3ad9",
     "name": "Pearl Millet - Grains (bajara)",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Millets/Rice",
+    "categoryOd": "ମିଲେଟ୍ / ଚାଉଳ",
+    "categoryHi": "मिलेट्स / चावल",
     "pack": "500 GRM",
-    "price": 55
+    "price": 55.0,
+    "image": ""
   },
   {
-    "id": "b68efa836f",
-    "category": "Millets & Millet Products",
+    "id": "74e5eefb8a88",
     "name": "Mahendra Sorghum Grains (jowar)",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Millets/Rice",
+    "categoryOd": "ମିଲେଟ୍ / ଚାଉଳ",
+    "categoryHi": "मिलेट्स / चावल",
     "pack": "500 GRM",
-    "price": 45
+    "price": 45.0,
+    "image": ""
   },
   {
-    "id": "bed90175eb",
-    "category": "Millets & Millet Products",
+    "id": "f0b4da903292",
     "name": "Proso Millet Rice",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Millets/Rice",
+    "categoryOd": "ମିଲେଟ୍ / ଚାଉଳ",
+    "categoryHi": "मिलेट्स / चावल",
     "pack": "500 GRM",
-    "price": 80
+    "price": 80.0,
+    "image": ""
   },
   {
-    "id": "104b82fac0",
-    "category": "Millets & Millet Products",
+    "id": "d11c0bbd4faa",
     "name": "Brown rice (semi polish)",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Millets/Rice",
+    "categoryOd": "ମିଲେଟ୍ / ଚାଉଳ",
+    "categoryHi": "मिलेट्स / चावल",
     "pack": "500 GRM",
-    "price": 85
+    "price": 85.0,
+    "image": ""
   },
   {
-    "id": "e717b11eae",
-    "category": "Millets & Millet Products",
+    "id": "ab13becb702d",
     "name": "Brown rice (un polish)",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Millets/Rice",
+    "categoryOd": "ମିଲେଟ୍ / ଚାଉଳ",
+    "categoryHi": "मिलेट्स / चावल",
     "pack": "500 GRM",
-    "price": 85
+    "price": 85.0,
+    "image": ""
   },
   {
-    "id": "6ea3d36161",
-    "category": "Millets & Millet Products",
+    "id": "f4c6f5a28ee6",
     "name": "Foxtail Millet - Atta",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Atta",
+    "categoryOd": "ଅଟା",
+    "categoryHi": "आटा",
     "pack": "500 GRM",
-    "price": 65
+    "price": 65.0,
+    "image": ""
   },
   {
-    "id": "a755e17300",
-    "category": "Millets & Millet Products",
+    "id": "d116c1d9a7bf",
     "name": "Kodo Millet - Atta",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Atta",
+    "categoryOd": "ଅଟା",
+    "categoryHi": "आटा",
     "pack": "500 GRM",
-    "price": 90
+    "price": 90.0,
+    "image": ""
   },
   {
-    "id": "238519ff80",
-    "category": "Millets & Millet Products",
+    "id": "f366a5a19d98",
     "name": "Little Millet - Atta",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Atta",
+    "categoryOd": "ଅଟା",
+    "categoryHi": "आटा",
     "pack": "500 GRM",
-    "price": 120
+    "price": 120.0,
+    "image": ""
   },
   {
-    "id": "dd01c164ff",
-    "category": "Millets & Millet Products",
+    "id": "93f9bc7d3ed0",
     "name": "Barnyard Miilet  - Atta",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Atta",
+    "categoryOd": "ଅଟା",
+    "categoryHi": "आटा",
     "pack": "500 GRM",
-    "price": 120
+    "price": 120.0,
+    "image": ""
   },
   {
-    "id": "5c4044c63e",
-    "category": "Millets & Millet Products",
+    "id": "fce1bdd212c8",
     "name": "Browntop Millet  - Atta",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Atta",
+    "categoryOd": "ଅଟା",
+    "categoryHi": "आटा",
     "pack": "500 GRM",
-    "price": 110
+    "price": 110.0,
+    "image": ""
   },
   {
-    "id": "4510cf9777",
-    "category": "Millets & Millet Products",
+    "id": "726d96ae01f3",
     "name": "Quinoa Millet  - Atta",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Atta",
+    "categoryOd": "ଅଟା",
+    "categoryHi": "आटा",
     "pack": "500 GRM",
-    "price": 110
+    "price": 110.0,
+    "image": ""
   },
   {
-    "id": "06c24dfc42",
-    "category": "Millets & Millet Products",
+    "id": "2bb2fb805236",
     "name": "Foxtail Millet - Atta",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Atta",
+    "categoryOd": "ଅଟା",
+    "categoryHi": "आटा",
     "pack": "200 GRM",
-    "price": 20
+    "price": 20.0,
+    "image": ""
   },
   {
-    "id": "fc71d28155",
-    "category": "Millets & Millet Products",
+    "id": "9b2e7a5338c9",
     "name": "Kodo Millet - Atta",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Atta",
+    "categoryOd": "ଅଟା",
+    "categoryHi": "आटा",
     "pack": "200 GRM",
-    "price": 25
+    "price": 25.0,
+    "image": ""
   },
   {
-    "id": "8c8abc0f7e",
-    "category": "Millets & Millet Products",
+    "id": "43dcbf08a474",
     "name": "Little Millet - Atta",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Atta",
+    "categoryOd": "ଅଟା",
+    "categoryHi": "आटा",
     "pack": "200 GRM",
-    "price": 35
+    "price": 35.0,
+    "image": ""
   },
   {
-    "id": "c9f0a02a89",
-    "category": "Millets & Millet Products",
+    "id": "28b12bc7f1ec",
     "name": "Barnyard Miilet  - Atta",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Atta",
+    "categoryOd": "ଅଟା",
+    "categoryHi": "आटा",
     "pack": "200 GRM",
-    "price": 50
+    "price": 50.0,
+    "image": ""
   },
   {
-    "id": "04ae87d5ab",
-    "category": "Millets & Millet Products",
+    "id": "b9ba8d2849fa",
     "name": "Browntop Millet  - Atta",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Atta",
+    "categoryOd": "ଅଟା",
+    "categoryHi": "आटा",
     "pack": "200 GRM",
-    "price": 45
+    "price": 45.0,
+    "image": ""
   },
   {
-    "id": "d1404ce257",
-    "category": "Millets & Millet Products",
+    "id": "74ba1e8d1e78",
     "name": "Quinoa Millet  - Atta",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Atta",
+    "categoryOd": "ଅଟା",
+    "categoryHi": "आटा",
     "pack": "200 GRM",
-    "price": 35
+    "price": 35.0,
+    "image": ""
   },
   {
-    "id": "1447888131",
-    "category": "Millets & Millet Products",
+    "id": "03578d0a59e6",
     "name": "MILLET  KHICHIDI  Mix",
-    "pack": "200 GRM",
-    "price": 80
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Other",
+    "categoryOd": "ଅନ୍ୟାନ୍ୟ",
+    "categoryHi": "अन्य",
+    "pack": "500GRM",
+    "price": 200.0,
+    "image": ""
   },
   {
-    "id": "4793625752",
-    "category": "Millets & Millet Products",
+    "id": "df7f8709b774",
+    "name": "MILLET  KHICHIDI  Mix",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Other",
+    "categoryOd": "ଅନ୍ୟାନ୍ୟ",
+    "categoryHi": "अन्य",
+    "pack": "200 GRM",
+    "price": 80.0,
+    "image": ""
+  },
+  {
+    "id": "6f6e33005b2c",
     "name": "MILLET  DOSA   Mix",
-    "pack": "200 GRM",
-    "price": 70
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Other",
+    "categoryOd": "ଅନ୍ୟାନ୍ୟ",
+    "categoryHi": "अन्य",
+    "pack": "500GRM",
+    "price": 175.0,
+    "image": ""
   },
   {
-    "id": "fc4e461eb9",
-    "category": "Millets & Millet Products",
+    "id": "25355e176903",
+    "name": "MILLET  DOSA   Mix",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Other",
+    "categoryOd": "ଅନ୍ୟାନ୍ୟ",
+    "categoryHi": "अन्य",
+    "pack": "200 GRM",
+    "price": 70.0,
+    "image": ""
+  },
+  {
+    "id": "3b3a8ad9bafc",
     "name": "MULTI MILET DHALIA   Mix",
-    "pack": "200 GRM",
-    "price": 65
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Other",
+    "categoryOd": "ଅନ୍ୟାନ୍ୟ",
+    "categoryHi": "अन्य",
+    "pack": "500 GRM",
+    "price": 175.0,
+    "image": ""
   },
   {
-    "id": "4cf414106e",
-    "category": "Millets & Millet Products",
+    "id": "1ff3f0070a82",
+    "name": "MULTI MILET DHALIA   Mix",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Other",
+    "categoryOd": "ଅନ୍ୟାନ୍ୟ",
+    "categoryHi": "अन्य",
+    "pack": "200 GRM",
+    "price": 70.0,
+    "image": ""
+  },
+  {
+    "id": "02f11fa0bfb9",
     "name": "MILLET UPMA   Mix",
-    "pack": "200 GRM",
-    "price": 80
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Other",
+    "categoryOd": "ଅନ୍ୟାନ୍ୟ",
+    "categoryHi": "अन्य",
+    "pack": "500 GRM",
+    "price": 200.0,
+    "image": ""
   },
   {
-    "id": "6f77ba3bd6",
-    "category": "Millets & Millet Products",
+    "id": "286793c168ef",
+    "name": "MILLET UPMA   Mix",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Other",
+    "categoryOd": "ଅନ୍ୟାନ୍ୟ",
+    "categoryHi": "अन्य",
+    "pack": "200 GRM",
+    "price": 80.0,
+    "image": ""
+  },
+  {
+    "id": "a2292aff8754",
+    "name": "Little Millet Suji",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Other",
+    "categoryOd": "ଅନ୍ୟାନ୍ୟ",
+    "categoryHi": "अन्य",
+    "pack": "200 GRM",
+    "price": 45.0,
+    "image": ""
+  },
+  {
+    "id": "fd5ee221d3dc",
+    "name": "Foxtail Millet Suji",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Other",
+    "categoryOd": "ଅନ୍ୟାନ୍ୟ",
+    "categoryHi": "अन्य",
+    "pack": "200 GRM",
+    "price": 45.0,
+    "image": ""
+  },
+  {
+    "id": "e60bd5772b97",
+    "name": "Bronyad Suji",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Other",
+    "categoryOd": "ଅନ୍ୟାନ୍ୟ",
+    "categoryHi": "अन्य",
+    "pack": "200 GRM",
+    "price": 55.0,
+    "image": ""
+  },
+  {
+    "id": "95dba9eb954d",
+    "name": "Organic Red Rice",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Other",
+    "categoryOd": "ଅନ୍ୟାନ୍ୟ",
+    "categoryHi": "अन्य",
+    "pack": "500 GRM",
+    "price": 90.0,
+    "image": ""
+  },
+  {
+    "id": "7b343a3b3a0e",
+    "name": "Organic Red Rice",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Other",
+    "categoryOd": "ଅନ୍ୟାନ୍ୟ",
+    "categoryHi": "अन्य",
+    "pack": "200 GRM",
+    "price": 35.0,
+    "image": ""
+  },
+  {
+    "id": "830da0ba9f58",
     "name": "Millet Vermicelli (semei)",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Other",
+    "categoryOd": "ଅନ୍ୟାନ୍ୟ",
+    "categoryHi": "अन्य",
     "pack": "200 GRM",
-    "price": 100
+    "price": 100.0,
+    "image": ""
   },
   {
-    "id": "bbd3ea795a",
-    "category": "Millets & Millet Products",
+    "id": "c69df89b8fa7",
     "name": "Multi Millet Pasta",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Other",
+    "categoryOd": "ଅନ୍ୟାନ୍ୟ",
+    "categoryHi": "अन्य",
     "pack": "200 GRM",
-    "price": 100
+    "price": 100.0,
+    "image": ""
   },
   {
-    "id": "98a9405a31",
-    "category": "Millets & Millet Products",
+    "id": "8a57ee9bf18a",
     "name": "Multi  Millet Noodles",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Other",
+    "categoryOd": "ଅନ୍ୟାନ୍ୟ",
+    "categoryHi": "अन्य",
     "pack": "200 GRM",
-    "price": 100
+    "price": 100.0,
+    "image": ""
   },
   {
-    "id": "7c2d8ee9c9",
-    "category": "Millets & Millet Products",
-    "name": "110g Little Millet Rusk",
-    "pack": "110g",
-    "price": 70
-  },
-  {
-    "id": "a360c1dd06",
-    "category": "Millets & Millet Products",
-    "name": "110g Foxtail Millet Rusk",
-    "pack": "110g",
-    "price": 70
-  },
-  {
-    "id": "0c2522b1d5",
-    "category": "Millets & Millet Products",
+    "id": "1d77d03bfc09",
     "name": "110g Multi Millet Rusk",
-    "pack": "110g",
-    "price": 70
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Other",
+    "categoryOd": "ଅନ୍ୟାନ୍ୟ",
+    "categoryHi": "अन्य",
+    "pack": "110 GRM",
+    "price": 70.0,
+    "image": ""
   },
   {
-    "id": "98ea81d1d0",
-    "category": "Millets & Millet Products",
-    "name": "150g Foxtail Honey Cookies",
-    "pack": "150g",
-    "price": 100
-  },
-  {
-    "id": "96d8ca1ad9",
-    "category": "Millets & Millet Products",
-    "name": "150g Little Millet Cookies",
-    "pack": "150g",
-    "price": 100
-  },
-  {
-    "id": "f1a7ac1373",
-    "category": "Millets & Millet Products",
-    "name": "150g Finger Millet Cookies",
-    "pack": "150g",
-    "price": 100
-  },
-  {
-    "id": "b24d142461",
-    "category": "Millets & Millet Products",
+    "id": "c65f40966ae3",
     "name": "150g Multi Millet Cookies",
-    "pack": "150g",
-    "price": 100
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Other",
+    "categoryOd": "ଅନ୍ୟାନ୍ୟ",
+    "categoryHi": "अन्य",
+    "pack": "150 GRM",
+    "price": 100.0,
+    "image": ""
   },
   {
-    "id": "ba9f6d2245",
-    "category": "Other",
+    "id": "acee7325ad44",
     "name": "NORMAL ATTA 5KG",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Atta",
+    "categoryOd": "ଅଟା",
+    "categoryHi": "आटा",
     "pack": "5KG",
-    "price": 230
+    "price": 240.0,
+    "image": ""
   },
   {
-    "id": "7ec99bafd3",
-    "category": "Other",
+    "id": "985e046adb7f",
+    "name": "NORMAL ATTA 5KG (WHITE)",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Atta",
+    "categoryOd": "ଅଟା",
+    "categoryHi": "आटा",
+    "pack": "5KG",
+    "price": 220.0,
+    "image": ""
+  },
+  {
+    "id": "b39e71c24a9d",
     "name": "NORMAL ATTA  2KG",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Atta",
+    "categoryOd": "ଅଟା",
+    "categoryHi": "आटा",
     "pack": "2KG",
-    "price": 92
+    "price": 96.0,
+    "image": ""
   },
   {
-    "id": "89aabeaad4",
-    "category": "Other",
+    "id": "d3df761da129",
     "name": "SARBATI ATTA 5KG",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Atta",
+    "categoryOd": "ଅଟା",
+    "categoryHi": "आटा",
     "pack": "5KG",
-    "price": 250
+    "price": 260.0,
+    "image": ""
   },
   {
-    "id": "144c00c68e",
-    "category": "Other",
+    "id": "c5ac775d865e",
     "name": "SARBATI ATTA 2KG",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Atta",
+    "categoryOd": "ଅଟା",
+    "categoryHi": "आटा",
     "pack": "2KG",
-    "price": 100
+    "price": 104.0,
+    "image": ""
   },
   {
-    "id": "c2052a5335",
-    "category": "Other",
+    "id": "510e5e05a244",
     "name": "MULTI GRAIN ATTA",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Atta",
+    "categoryOd": "ଅଟା",
+    "categoryHi": "आटा",
     "pack": "1 KG",
-    "price": 80
+    "price": 80.0,
+    "image": ""
   },
   {
-    "id": "1191161f45",
-    "category": "Other",
+    "id": "1a2bec5185c8",
     "name": "MAKA ATTA",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Atta",
+    "categoryOd": "ଅଟା",
+    "categoryHi": "आटा",
     "pack": "500GM",
-    "price": 35
+    "price": 35.0,
+    "image": ""
   },
   {
-    "id": "17687d9b3f",
-    "category": "Other",
+    "id": "d132e15724e8",
     "name": "BAJARA ATTA",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Atta",
+    "categoryOd": "ଅଟା",
+    "categoryHi": "आटा",
     "pack": "500GM",
-    "price": 40
+    "price": 40.0,
+    "image": ""
   },
   {
-    "id": "65b1831c99",
-    "category": "Other",
+    "id": "a411823faf9e",
     "name": "JAW ATTA",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Atta",
+    "categoryOd": "ଅଟା",
+    "categoryHi": "आटा",
     "pack": "500GM",
-    "price": 55
+    "price": 55.0,
+    "image": "https://malatifoodproducts.com/assets/products/jaw%20atta.png"
   },
   {
-    "id": "bc57fa309d",
-    "category": "Other",
+    "id": "906b217841db",
     "name": "JAWAR ATTA",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Atta",
+    "categoryOd": "ଅଟା",
+    "categoryHi": "आटा",
     "pack": "500GM",
-    "price": 45
+    "price": 45.0,
+    "image": ""
   },
   {
-    "id": "69b159f00b",
-    "category": "Other",
+    "id": "487cc6f218d1",
     "name": "MANDIA ATTA",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Atta",
+    "categoryOd": "ଅଟା",
+    "categoryHi": "आटा",
     "pack": "500 GRM",
-    "price": 60
+    "price": 60.0,
+    "image": ""
   },
   {
-    "id": "182018f8c9",
-    "category": "Other",
+    "id": "15931ba43288",
     "name": "KEETO ATTA",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Atta",
+    "categoryOd": "ଅଟା",
+    "categoryHi": "आटा",
     "pack": "60 GRM",
-    "price": 25
+    "price": 25.0,
+    "image": ""
   },
   {
-    "id": "344cef4024",
-    "category": "Other",
+    "id": "a5bf643e39a4",
     "name": "KEETO ATTA",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Atta",
+    "categoryOd": "ଅଟା",
+    "categoryHi": "आटा",
     "pack": "1KG",
-    "price": 450
+    "price": 450.0,
+    "image": ""
   },
   {
-    "id": "5acac05cb7",
-    "category": "Other",
+    "id": "a1f9ff27e576",
     "name": "SPECIAL CHHATUA",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Sattu",
+    "categoryOd": "ଚାଟୁଆ",
+    "categoryHi": "सत्तू",
     "pack": "500 GRM",
-    "price": 95
+    "price": 95.0,
+    "image": ""
   },
   {
-    "id": "add9e07047",
-    "category": "Other",
+    "id": "df45d64199d0",
     "name": "BUTA CHHATUA",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Sattu",
+    "categoryOd": "ଚାଟୁଆ",
+    "categoryHi": "सत्तू",
     "pack": "500 GRM",
-    "price": 85
+    "price": 85.0,
+    "image": ""
   },
   {
-    "id": "7a429687ca",
-    "category": "Other",
+    "id": "d816ef2a395b",
     "name": "MIX CHHATUA",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Sattu",
+    "categoryOd": "ଚାଟୁଆ",
+    "categoryHi": "सत्तू",
     "pack": "500 GRM",
-    "price": 70
+    "price": 70.0,
+    "image": ""
   },
   {
-    "id": "f7439c0c11",
-    "category": "Other",
+    "id": "7101b8da31dc",
     "name": "MITHAI CHHATUA",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Sattu",
+    "categoryOd": "ଚାଟୁଆ",
+    "categoryHi": "सत्तू",
     "pack": "500 GRM",
-    "price": 75
+    "price": 75.0,
+    "image": ""
   },
   {
-    "id": "11b11d8936",
-    "category": "Other",
+    "id": "69386c20f13b",
     "name": "JAW CHATUA",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Sattu",
+    "categoryOd": "ଚାଟୁଆ",
+    "categoryHi": "सत्तू",
     "pack": "500 GRM",
-    "price": 100
+    "price": 100.0,
+    "image": ""
   },
   {
-    "id": "cc3e3d5526",
-    "category": "Other",
+    "id": "256e72d37e10",
     "name": "MANDIA CHATUA",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Sattu",
+    "categoryOd": "ଚାଟୁଆ",
+    "categoryHi": "सत्तू",
     "pack": "500 GRM",
-    "price": 80
+    "price": 80.0,
+    "image": ""
   },
   {
-    "id": "b02eac311e",
-    "category": "Other",
+    "id": "e69fd2b6f568",
     "name": "WHEAT CHATUA",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Sattu",
+    "categoryOd": "ଚାଟୁଆ",
+    "categoryHi": "सत्तू",
     "pack": "500 GRM",
-    "price": 60
+    "price": 60.0,
+    "image": ""
   },
   {
-    "id": "2975bbdf78",
-    "category": "Other",
+    "id": "4075d2fc6361",
     "name": "TIFFIN BOX",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Other",
+    "categoryOd": "ଅନ୍ୟାନ୍ୟ",
+    "categoryHi": "अन्य",
     "pack": "100 GRM",
-    "price": 25
+    "price": 25.0,
+    "image": ""
   },
   {
-    "id": "d149e6e3ee",
-    "category": "Other",
+    "id": "94f394a3644d",
     "name": "BESAN",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Other",
+    "categoryOd": "ଅନ୍ୟାନ୍ୟ",
+    "categoryHi": "अन्य",
     "pack": "500 GRM",
-    "price": 80
+    "price": 80.0,
+    "image": ""
   },
   {
-    "id": "b9e0576add",
-    "category": "Other",
+    "id": "ade3e34c7a17",
     "name": "RICE POWDER  PLAIN",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Other",
+    "categoryOd": "ଅନ୍ୟାନ୍ୟ",
+    "categoryHi": "अन्य",
     "pack": "1 KG",
-    "price": 55
+    "price": 55.0,
+    "image": ""
   },
   {
-    "id": "72faac580c",
-    "category": "Other",
+    "id": "a3243e8295bd",
     "name": "RICE POWDER MOTA",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Other",
+    "categoryOd": "ଅନ୍ୟାନ୍ୟ",
+    "categoryHi": "अन्य",
     "pack": "1 KG",
-    "price": 55
+    "price": 55.0,
+    "image": ""
   },
   {
-    "id": "ec7a7b179a",
-    "category": "Other",
+    "id": "556954a1e694",
     "name": "WHEAT DALIA",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Other",
+    "categoryOd": "ଅନ୍ୟାନ୍ୟ",
+    "categoryHi": "अन्य",
     "pack": "500 GRM",
-    "price": 60
+    "price": 60.0,
+    "image": ""
   },
   {
-    "id": "9e2a2dcabe",
+    "id": "a4cac6db15ef",
+    "name": "WHEAT GRAINS",
+    "nameOd": "",
+    "nameHi": "",
     "category": "Other",
-    "name": "HALADI",
-    "pack": "500 GRM",
-    "price": 200
-  },
-  {
-    "id": "baaeffa4d3",
-    "category": "Other",
-    "name": "HALADI",
-    "pack": "200 GRM",
-    "price": 80
-  },
-  {
-    "id": "0da556fb65",
-    "category": "Other",
-    "name": "HALADI",
-    "pack": "100 GRM",
-    "price": 40
-  },
-  {
-    "id": "a26b344584",
-    "category": "Other",
-    "name": "JEERA",
-    "pack": "100 GRM",
-    "price": 70
-  },
-  {
-    "id": "e23841991a",
-    "category": "Other",
-    "name": "CHILI",
-    "pack": "100 GRM",
-    "price": 60
-  },
-  {
-    "id": "c8cbc1b435",
-    "category": "Other",
-    "name": "DHANIA",
-    "pack": "100 GRM",
-    "price": 50
-  },
-  {
-    "id": "0f64b7574e",
-    "category": "Other",
-    "name": "CURRY",
-    "pack": "100 GRM",
-    "price": 70
-  },
-  {
-    "id": "7cce3cfe80",
-    "category": "Other",
-    "name": "METHI",
-    "pack": "200 GRM",
-    "price": 50
-  },
-  {
-    "id": "50abb15606",
-    "category": "Atta",
-    "name": "NORMAL ATTA 5KG",
-    "pack": "5KG",
-    "price": 230
-  },
-  {
-    "id": "215079d66c",
-    "category": "Atta",
-    "name": "NORMAL ATTA  2KG",
-    "pack": "2KG",
-    "price": 92
-  },
-  {
-    "id": "a00c548eaa",
-    "category": "Atta",
-    "name": "SARBATI ATTA 5KG",
-    "pack": "5KG",
-    "price": 250
-  },
-  {
-    "id": "38023858e6",
-    "category": "Atta",
-    "name": "SARBATI ATTA 2KG",
-    "pack": "2KG",
-    "price": 100
-  },
-  {
-    "id": "386784a6ea",
-    "category": "Atta",
-    "name": "MULTI GRAIN ATTA",
-    "pack": "1 KG",
-    "price": 80
-  },
-  {
-    "id": "0873197ac5",
-    "category": "Atta",
-    "name": "MAKA ATTA",
-    "pack": "500GM",
-    "price": 35
-  },
-  {
-    "id": "7956996bdf",
-    "category": "Atta",
-    "name": "BAJARA ATTA",
-    "pack": "500GM",
-    "price": 40
-  },
-  {
-    "id": "bc9ff5d272",
-    "category": "Atta",
-    "name": "JAW ATTA",
-    "pack": "500GM",
-    "price": 55
-  },
-  {
-    "id": "bc81d840c6",
-    "category": "Atta",
-    "name": "JAWAR ATTA",
-    "pack": "500GM",
-    "price": 45
-  },
-  {
-    "id": "aff899c93a",
-    "category": "Atta",
-    "name": "MANDIA ATTA",
-    "pack": "500 GRM",
-    "price": 60
-  },
-  {
-    "id": "24ed653044",
-    "category": "Atta",
-    "name": "KEETO ATTA",
-    "pack": "60 GRM",
-    "price": 25
-  },
-  {
-    "id": "2eb4226f1c",
-    "category": "Atta",
-    "name": "KEETO ATTA",
+    "categoryOd": "ଅନ୍ୟାନ୍ୟ",
+    "categoryHi": "अन्य",
     "pack": "1KG",
-    "price": 450
+    "price": 40.0,
+    "image": ""
   },
   {
-    "id": "6830f6fbf1",
-    "category": "Chatua",
-    "name": "SPECIAL CHHATUA",
-    "pack": "500 GRM",
-    "price": 95
+    "id": "4b923fc7c072",
+    "name": "CHOKADA",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Other",
+    "categoryOd": "ଅନ୍ୟାନ୍ୟ",
+    "categoryHi": "अन्य",
+    "pack": "1KG",
+    "price": 25.0,
+    "image": ""
   },
   {
-    "id": "06d25b64fd",
-    "category": "Chatua",
-    "name": "BUTA CHHATUA",
-    "pack": "500 GRM",
-    "price": 85
-  },
-  {
-    "id": "128e24842e",
-    "category": "Chatua",
-    "name": "MIX CHHATUA",
-    "pack": "500 GRM",
-    "price": 70
-  },
-  {
-    "id": "07c829cea6",
-    "category": "Chatua",
-    "name": "MITHAI CHHATUA",
-    "pack": "500 GRM",
-    "price": 75
-  },
-  {
-    "id": "5cf643b8a4",
-    "category": "Chatua",
-    "name": "JAW CHATUA",
-    "pack": "500 GRM",
-    "price": 100
-  },
-  {
-    "id": "6005297b67",
-    "category": "Chatua",
-    "name": "MANDIA CHATUA",
-    "pack": "500 GRM",
-    "price": 80
-  },
-  {
-    "id": "2400076838",
-    "category": "Chatua",
-    "name": "WHEAT CHATUA",
-    "pack": "500 GRM",
-    "price": 60
-  },
-  {
-    "id": "20692c8c15",
-    "category": "Chatua",
-    "name": "TIFFIN BOX",
-    "pack": "100 GRM",
-    "price": 25
-  },
-  {
-    "id": "ae40535fde",
-    "category": "Spices",
+    "id": "90e43a725aae",
     "name": "HALADI",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Spices",
+    "categoryOd": "ମସଲା",
+    "categoryHi": "मसाले",
     "pack": "500 GRM",
-    "price": 200
+    "price": 200.0,
+    "image": ""
   },
   {
-    "id": "467367892b",
-    "category": "Spices",
+    "id": "6f28bb4393e4",
     "name": "HALADI",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Spices",
+    "categoryOd": "ମସଲା",
+    "categoryHi": "मसाले",
     "pack": "200 GRM",
-    "price": 80
+    "price": 80.0,
+    "image": ""
   },
   {
-    "id": "a7b3e540ef",
-    "category": "Spices",
+    "id": "6d0c25931d79",
     "name": "HALADI",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Spices",
+    "categoryOd": "ମସଲା",
+    "categoryHi": "मसाले",
     "pack": "100 GRM",
-    "price": 40
+    "price": 40.0,
+    "image": ""
   },
   {
-    "id": "925dd33fe9",
-    "category": "Spices",
+    "id": "9a665aad7f6e",
     "name": "JEERA",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Spices",
+    "categoryOd": "ମସଲା",
+    "categoryHi": "मसाले",
     "pack": "100 GRM",
-    "price": 70
+    "price": 70.0,
+    "image": ""
   },
   {
-    "id": "22de162ca9",
-    "category": "Spices",
+    "id": "7d94322a4021",
     "name": "CHILI",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Spices",
+    "categoryOd": "ମସଲା",
+    "categoryHi": "मसाले",
     "pack": "100 GRM",
-    "price": 60
+    "price": 60.0,
+    "image": ""
   },
   {
-    "id": "e21056596e",
-    "category": "Spices",
+    "id": "d22dcadc50ea",
     "name": "DHANIA",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Spices",
+    "categoryOd": "ମସଲା",
+    "categoryHi": "मसाले",
     "pack": "100 GRM",
-    "price": 50
+    "price": 70.0,
+    "image": ""
   },
   {
-    "id": "f0de8ae609",
-    "category": "Spices",
+    "id": "654034bfcaac",
     "name": "CURRY",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Spices",
+    "categoryOd": "ମସଲା",
+    "categoryHi": "मसाले",
     "pack": "100 GRM",
-    "price": 70
+    "price": 70.0,
+    "image": ""
   },
   {
-    "id": "3c542971a2",
-    "category": "Spices",
+    "id": "cccefe445a44",
     "name": "METHI",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Spices",
+    "categoryOd": "ମସଲା",
+    "categoryHi": "मसाले",
     "pack": "200 GRM",
-    "price": 50
+    "price": 60.0,
+    "image": ""
   }
 ]

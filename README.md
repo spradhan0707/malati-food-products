@@ -1,30 +1,20 @@
-# Malati Food Products catalogue
+# Malati Food Products Catalogue (updated)
 
 ## Files
-- `index.html` — public product catalogue
-- `products.json` — product data (98 initial products)
-- `logo.png` — Malati logo
-- `admin.html` — browser-based product manager
+- `index.html` — public catalogue with English, Odia and Hindi language selector.
+- `admin.html` — English-only admin panel for adding/editing/deleting products and uploading product images.
+- `products.json` — updated from `PINELAB.xlsx` using the SP (Selling Price) column.
+- `logo.png` — Malati logo.
+- `product-images/` — place for product images uploaded through the admin panel.
 
-## Deploy
-1. Upload all four files to the root of the GitHub repository.
-2. Connect the repository to Netlify.
-3. Leave build command blank and publish directory as `.`.
-4. Public catalogue: `https://YOUR-SITE.netlify.app/`
-5. Admin page: `https://YOUR-SITE.netlify.app/admin.html`
+## Product categories
+The public catalogue uses these exact filters: All Products, Millets/Rice, Other, Atta, Sattu, Spices. Workbook category `Others` is mapped to `Other`.
 
-## Product management
-1. Open `/admin.html`.
-2. Create a GitHub fine-grained personal access token restricted to this repository.
-3. Grant **Contents: Read and write** permission and set an expiry.
-4. Enter GitHub owner, repository, branch (`main`) and token in the admin page.
-5. Click **Connect & load products**.
-6. Add/edit/delete products. You can also edit cells directly in the table.
-7. Click **Save all changes to GitHub**. This commits `products.json`; Netlify automatically redeploys the site.
+## Publish on GitHub + Netlify
+Upload/replace the package files in the root of your existing GitHub repository. Keep Netlify publish directory as `.` and build command blank. Netlify will redeploy after the commit.
 
-The token is held in browser session storage only. It is not embedded in the public website or saved in the repository. Do not share it. Anyone who obtains the token can change the repository contents within its granted permissions.
+## Admin
+Open `/admin.html`. Enter GitHub owner, repository, branch and a fine-grained GitHub token scoped to this repository with Contents read/write permission. The token is held in the browser tab and is not part of the website source. Keep it private and revoke it if exposed. Admin UI is English; optional Odia/Hindi product and category fields can be filled for multilingual display.
 
-The admin URL is not a substitute for access control: the GitHub token is the actual write authorization. Use it only on a trusted device, sign out/clear the connection after use, and revoke the token in GitHub if it is exposed.
-
-## Initial product data
-Imported from the consolidated Malati Excel workbook; selling prices use the SP column. Confirm all prices before publishing.
+## Language notes
+The public page translates interface labels and category names. Product names display Odia/Hindi values when those optional translations are populated; otherwise they fall back to the English product name. Prices and numerals remain in English numerals.
