@@ -1,14 +1,14 @@
 [
   {
     "id": "4a97eb948443",
-    "name": "Finger Millet - Grains (Mandia)",
+    "name": "Finger Millet- Grains (Mandia)",
     "nameOd": "",
     "nameHi": "",
     "category": "Millets/Rice",
     "categoryOd": "ମିଲେଟ୍ / ଚାଉଳ",
     "categoryHi": "मिलेट्स / चावल",
     "pack": "500 GRM",
-    "price": 60.0,
+    "price": 60,
     "image": ""
   },
   {
@@ -20,7 +20,7 @@
     "categoryOd": "ମିଲେଟ୍ / ଚାଉଳ",
     "categoryHi": "मिलेट्स / चावल",
     "pack": "500 GRM",
-    "price": 55.0,
+    "price": 55,
     "image": ""
   },
   {
@@ -32,7 +32,7 @@
     "categoryOd": "ମିଲେଟ୍ / ଚାଉଳ",
     "categoryHi": "मिलेट्स / चावल",
     "pack": "500 GRM",
-    "price": 80.0,
+    "price": 80,
     "image": ""
   },
   {
@@ -44,7 +44,7 @@
     "categoryOd": "ମିଲେଟ୍ / ଚାଉଳ",
     "categoryHi": "मिलेट्स / चावल",
     "pack": "500 GRM",
-    "price": 110.0,
+    "price": 110,
     "image": ""
   },
   {
@@ -56,7 +56,7 @@
     "categoryOd": "ମିଲେଟ୍ / ଚାଉଳ",
     "categoryHi": "मिलेट्स / चावल",
     "pack": "500 GRM",
-    "price": 85.0,
+    "price": 85,
     "image": ""
   },
   {
@@ -68,7 +68,7 @@
     "categoryOd": "ମିଲେଟ୍ / ଚାଉଳ",
     "categoryHi": "मिलेट्स / चावल",
     "pack": "500 GRM",
-    "price": 110.0,
+    "price": 110,
     "image": ""
   },
   {
@@ -80,7 +80,7 @@
     "categoryOd": "ମିଲେଟ୍ / ଚାଉଳ",
     "categoryHi": "मिलेट्स / चावल",
     "pack": "500 GRM",
-    "price": 110.0,
+    "price": 110,
     "image": ""
   },
   {
@@ -92,7 +92,7 @@
     "categoryOd": "ମିଲେଟ୍ / ଚାଉଳ",
     "categoryHi": "मिलेट्स / चावल",
     "pack": "500 GRM",
-    "price": 55.0,
+    "price": 55,
     "image": ""
   },
   {
@@ -104,7 +104,7 @@
     "categoryOd": "ମିଲେଟ୍ / ଚାଉଳ",
     "categoryHi": "मिलेट्स / चावल",
     "pack": "500 GRM",
-    "price": 45.0,
+    "price": 45,
     "image": ""
   },
   {
@@ -116,7 +116,7 @@
     "categoryOd": "ମିଲେଟ୍ / ଚାଉଳ",
     "categoryHi": "मिलेट्स / चावल",
     "pack": "500 GRM",
-    "price": 80.0,
+    "price": 80,
     "image": ""
   },
   {
@@ -128,7 +128,7 @@
     "categoryOd": "ମିଲେଟ୍ / ଚାଉଳ",
     "categoryHi": "मिलेट्स / चावल",
     "pack": "500 GRM",
-    "price": 85.0,
+    "price": 85,
     "image": ""
   },
   {
@@ -140,7 +140,7 @@
     "categoryOd": "ମିଲେଟ୍ / ଚାଉଳ",
     "categoryHi": "मिलेट्स / चावल",
     "pack": "500 GRM",
-    "price": 85.0,
+    "price": 85,
     "image": ""
   },
   {
@@ -152,7 +152,7 @@
     "categoryOd": "ଅଟା",
     "categoryHi": "आटा",
     "pack": "500 GRM",
-    "price": 65.0,
+    "price": 65,
     "image": ""
   },
   {
@@ -164,7 +164,7 @@
     "categoryOd": "ଅଟା",
     "categoryHi": "आटा",
     "pack": "500 GRM",
-    "price": 90.0,
+    "price": 90,
     "image": ""
   },
   {
@@ -176,7 +176,7 @@
     "categoryOd": "ଅଟା",
     "categoryHi": "आटा",
     "pack": "500 GRM",
-    "price": 120.0,
+    "price": 120,
     "image": ""
   },
   {
@@ -188,7 +188,7 @@
     "categoryOd": "ଅଟା",
     "categoryHi": "आटा",
     "pack": "500 GRM",
-    "price": 120.0,
+    "price": 120,
     "image": ""
   },
   {
@@ -200,7 +200,7 @@
     "categoryOd": "ଅଟା",
     "categoryHi": "आटा",
     "pack": "500 GRM",
-    "price": 110.0,
+    "price": 110,
     "image": ""
   },
   {
@@ -212,7 +212,7 @@
     "categoryOd": "ଅଟା",
     "categoryHi": "आटा",
     "pack": "500 GRM",
-    "price": 110.0,
+    "price": 110,
     "image": ""
   },
   {
@@ -224,7 +224,7 @@
     "categoryOd": "ଅଟା",
     "categoryHi": "आटा",
     "pack": "200 GRM",
-    "price": 20.0,
+    "price": 20,
     "image": ""
   },
   {
@@ -236,7 +236,7 @@
     "categoryOd": "ଅଟା",
     "categoryHi": "आटा",
     "pack": "200 GRM",
-    "price": 25.0,
+    "price": 25,
     "image": ""
   },
   {
@@ -248,7 +248,7 @@
     "categoryOd": "ଅଟା",
     "categoryHi": "आटा",
     "pack": "200 GRM",
-    "price": 35.0,
+    "price": 35,
     "image": ""
   },
   {
@@ -260,7 +260,7 @@
     "categoryOd": "ଅଟା",
     "categoryHi": "आटा",
     "pack": "200 GRM",
-    "price": 50.0,
+    "price": 50,
     "image": ""
   },
   {
@@ -272,7 +272,7 @@
     "categoryOd": "ଅଟା",
     "categoryHi": "आटा",
     "pack": "200 GRM",
-    "price": 45.0,
+    "price": 45,
     "image": ""
   },
   {
@@ -284,7 +284,7 @@
     "categoryOd": "ଅଟା",
     "categoryHi": "आटा",
     "pack": "200 GRM",
-    "price": 35.0,
+    "price": 35,
     "image": ""
   },
   {
@@ -296,7 +296,7 @@
     "categoryOd": "ଅନ୍ୟାନ୍ୟ",
     "categoryHi": "अन्य",
     "pack": "500GRM",
-    "price": 200.0,
+    "price": 200,
     "image": ""
   },
   {
@@ -308,7 +308,7 @@
     "categoryOd": "ଅନ୍ୟାନ୍ୟ",
     "categoryHi": "अन्य",
     "pack": "200 GRM",
-    "price": 80.0,
+    "price": 80,
     "image": ""
   },
   {
@@ -320,7 +320,7 @@
     "categoryOd": "ଅନ୍ୟାନ୍ୟ",
     "categoryHi": "अन्य",
     "pack": "500GRM",
-    "price": 175.0,
+    "price": 175,
     "image": ""
   },
   {
@@ -332,7 +332,7 @@
     "categoryOd": "ଅନ୍ୟାନ୍ୟ",
     "categoryHi": "अन्य",
     "pack": "200 GRM",
-    "price": 70.0,
+    "price": 70,
     "image": ""
   },
   {
@@ -344,7 +344,7 @@
     "categoryOd": "ଅନ୍ୟାନ୍ୟ",
     "categoryHi": "अन्य",
     "pack": "500 GRM",
-    "price": 175.0,
+    "price": 175,
     "image": ""
   },
   {
@@ -356,7 +356,7 @@
     "categoryOd": "ଅନ୍ୟାନ୍ୟ",
     "categoryHi": "अन्य",
     "pack": "200 GRM",
-    "price": 70.0,
+    "price": 70,
     "image": ""
   },
   {
@@ -368,7 +368,7 @@
     "categoryOd": "ଅନ୍ୟାନ୍ୟ",
     "categoryHi": "अन्य",
     "pack": "500 GRM",
-    "price": 200.0,
+    "price": 200,
     "image": ""
   },
   {
@@ -380,7 +380,7 @@
     "categoryOd": "ଅନ୍ୟାନ୍ୟ",
     "categoryHi": "अन्य",
     "pack": "200 GRM",
-    "price": 80.0,
+    "price": 80,
     "image": ""
   },
   {
@@ -392,7 +392,7 @@
     "categoryOd": "ଅନ୍ୟାନ୍ୟ",
     "categoryHi": "अन्य",
     "pack": "200 GRM",
-    "price": 45.0,
+    "price": 45,
     "image": ""
   },
   {
@@ -404,7 +404,7 @@
     "categoryOd": "ଅନ୍ୟାନ୍ୟ",
     "categoryHi": "अन्य",
     "pack": "200 GRM",
-    "price": 45.0,
+    "price": 45,
     "image": ""
   },
   {
@@ -416,7 +416,7 @@
     "categoryOd": "ଅନ୍ୟାନ୍ୟ",
     "categoryHi": "अन्य",
     "pack": "200 GRM",
-    "price": 55.0,
+    "price": 55,
     "image": ""
   },
   {
@@ -428,7 +428,7 @@
     "categoryOd": "ଅନ୍ୟାନ୍ୟ",
     "categoryHi": "अन्य",
     "pack": "500 GRM",
-    "price": 90.0,
+    "price": 90,
     "image": ""
   },
   {
@@ -440,7 +440,7 @@
     "categoryOd": "ଅନ୍ୟାନ୍ୟ",
     "categoryHi": "अन्य",
     "pack": "200 GRM",
-    "price": 35.0,
+    "price": 35,
     "image": ""
   },
   {
@@ -452,7 +452,7 @@
     "categoryOd": "ଅନ୍ୟାନ୍ୟ",
     "categoryHi": "अन्य",
     "pack": "200 GRM",
-    "price": 100.0,
+    "price": 100,
     "image": ""
   },
   {
@@ -464,7 +464,7 @@
     "categoryOd": "ଅନ୍ୟାନ୍ୟ",
     "categoryHi": "अन्य",
     "pack": "200 GRM",
-    "price": 100.0,
+    "price": 100,
     "image": ""
   },
   {
@@ -476,7 +476,7 @@
     "categoryOd": "ଅନ୍ୟାନ୍ୟ",
     "categoryHi": "अन्य",
     "pack": "200 GRM",
-    "price": 100.0,
+    "price": 100,
     "image": ""
   },
   {
@@ -488,7 +488,7 @@
     "categoryOd": "ଅନ୍ୟାନ୍ୟ",
     "categoryHi": "अन्य",
     "pack": "110 GRM",
-    "price": 70.0,
+    "price": 70,
     "image": ""
   },
   {
@@ -500,7 +500,7 @@
     "categoryOd": "ଅନ୍ୟାନ୍ୟ",
     "categoryHi": "अन्य",
     "pack": "150 GRM",
-    "price": 100.0,
+    "price": 100,
     "image": ""
   },
   {
@@ -512,7 +512,7 @@
     "categoryOd": "ଅଟା",
     "categoryHi": "आटा",
     "pack": "5KG",
-    "price": 240.0,
+    "price": 240,
     "image": ""
   },
   {
@@ -524,7 +524,7 @@
     "categoryOd": "ଅଟା",
     "categoryHi": "आटा",
     "pack": "5KG",
-    "price": 220.0,
+    "price": 220,
     "image": ""
   },
   {
@@ -536,7 +536,7 @@
     "categoryOd": "ଅଟା",
     "categoryHi": "आटा",
     "pack": "2KG",
-    "price": 96.0,
+    "price": 96,
     "image": ""
   },
   {
@@ -548,7 +548,7 @@
     "categoryOd": "ଅଟା",
     "categoryHi": "आटा",
     "pack": "5KG",
-    "price": 260.0,
+    "price": 260,
     "image": ""
   },
   {
@@ -560,7 +560,7 @@
     "categoryOd": "ଅଟା",
     "categoryHi": "आटा",
     "pack": "2KG",
-    "price": 104.0,
+    "price": 104,
     "image": ""
   },
   {
@@ -572,7 +572,7 @@
     "categoryOd": "ଅଟା",
     "categoryHi": "आटा",
     "pack": "1 KG",
-    "price": 80.0,
+    "price": 80,
     "image": ""
   },
   {
@@ -584,7 +584,7 @@
     "categoryOd": "ଅଟା",
     "categoryHi": "आटा",
     "pack": "500GM",
-    "price": 35.0,
+    "price": 35,
     "image": ""
   },
   {
@@ -596,7 +596,7 @@
     "categoryOd": "ଅଟା",
     "categoryHi": "आटा",
     "pack": "500GM",
-    "price": 40.0,
+    "price": 40,
     "image": ""
   },
   {
@@ -608,7 +608,7 @@
     "categoryOd": "ଅଟା",
     "categoryHi": "आटा",
     "pack": "500GM",
-    "price": 55.0,
+    "price": 55,
     "image": "https://malatifoodproducts.com/assets/products/jaw%20atta.png"
   },
   {
@@ -620,7 +620,7 @@
     "categoryOd": "ଅଟା",
     "categoryHi": "आटा",
     "pack": "500GM",
-    "price": 45.0,
+    "price": 45,
     "image": ""
   },
   {
@@ -632,7 +632,7 @@
     "categoryOd": "ଅଟା",
     "categoryHi": "आटा",
     "pack": "500 GRM",
-    "price": 60.0,
+    "price": 60,
     "image": ""
   },
   {
@@ -644,7 +644,7 @@
     "categoryOd": "ଅଟା",
     "categoryHi": "आटा",
     "pack": "60 GRM",
-    "price": 25.0,
+    "price": 25,
     "image": ""
   },
   {
@@ -656,7 +656,7 @@
     "categoryOd": "ଅଟା",
     "categoryHi": "आटा",
     "pack": "1KG",
-    "price": 450.0,
+    "price": 450,
     "image": ""
   },
   {
@@ -668,7 +668,7 @@
     "categoryOd": "ଚାଟୁଆ",
     "categoryHi": "सत्तू",
     "pack": "500 GRM",
-    "price": 95.0,
+    "price": 95,
     "image": ""
   },
   {
@@ -680,7 +680,7 @@
     "categoryOd": "ଚାଟୁଆ",
     "categoryHi": "सत्तू",
     "pack": "500 GRM",
-    "price": 85.0,
+    "price": 85,
     "image": ""
   },
   {
@@ -692,7 +692,7 @@
     "categoryOd": "ଚାଟୁଆ",
     "categoryHi": "सत्तू",
     "pack": "500 GRM",
-    "price": 70.0,
+    "price": 70,
     "image": ""
   },
   {
@@ -704,7 +704,7 @@
     "categoryOd": "ଚାଟୁଆ",
     "categoryHi": "सत्तू",
     "pack": "500 GRM",
-    "price": 75.0,
+    "price": 75,
     "image": ""
   },
   {
@@ -716,7 +716,7 @@
     "categoryOd": "ଚାଟୁଆ",
     "categoryHi": "सत्तू",
     "pack": "500 GRM",
-    "price": 100.0,
+    "price": 100,
     "image": ""
   },
   {
@@ -728,7 +728,7 @@
     "categoryOd": "ଚାଟୁଆ",
     "categoryHi": "सत्तू",
     "pack": "500 GRM",
-    "price": 80.0,
+    "price": 80,
     "image": ""
   },
   {
@@ -740,7 +740,7 @@
     "categoryOd": "ଚାଟୁଆ",
     "categoryHi": "सत्तू",
     "pack": "500 GRM",
-    "price": 60.0,
+    "price": 60,
     "image": ""
   },
   {
@@ -752,7 +752,7 @@
     "categoryOd": "ଅନ୍ୟାନ୍ୟ",
     "categoryHi": "अन्य",
     "pack": "100 GRM",
-    "price": 25.0,
+    "price": 25,
     "image": ""
   },
   {
@@ -764,7 +764,7 @@
     "categoryOd": "ଅନ୍ୟାନ୍ୟ",
     "categoryHi": "अन्य",
     "pack": "500 GRM",
-    "price": 80.0,
+    "price": 80,
     "image": ""
   },
   {
@@ -776,7 +776,7 @@
     "categoryOd": "ଅନ୍ୟାନ୍ୟ",
     "categoryHi": "अन्य",
     "pack": "1 KG",
-    "price": 55.0,
+    "price": 55,
     "image": ""
   },
   {
@@ -788,7 +788,7 @@
     "categoryOd": "ଅନ୍ୟାନ୍ୟ",
     "categoryHi": "अन्य",
     "pack": "1 KG",
-    "price": 55.0,
+    "price": 55,
     "image": ""
   },
   {
@@ -800,7 +800,7 @@
     "categoryOd": "ଅନ୍ୟାନ୍ୟ",
     "categoryHi": "अन्य",
     "pack": "500 GRM",
-    "price": 60.0,
+    "price": 60,
     "image": ""
   },
   {
@@ -812,7 +812,7 @@
     "categoryOd": "ଅନ୍ୟାନ୍ୟ",
     "categoryHi": "अन्य",
     "pack": "1KG",
-    "price": 40.0,
+    "price": 40,
     "image": ""
   },
   {
@@ -824,7 +824,7 @@
     "categoryOd": "ଅନ୍ୟାନ୍ୟ",
     "categoryHi": "अन्य",
     "pack": "1KG",
-    "price": 25.0,
+    "price": 25,
     "image": ""
   },
   {
@@ -836,7 +836,7 @@
     "categoryOd": "ମସଲା",
     "categoryHi": "मसाले",
     "pack": "500 GRM",
-    "price": 200.0,
+    "price": 200,
     "image": ""
   },
   {
@@ -848,7 +848,7 @@
     "categoryOd": "ମସଲା",
     "categoryHi": "मसाले",
     "pack": "200 GRM",
-    "price": 80.0,
+    "price": 80,
     "image": ""
   },
   {
@@ -860,7 +860,7 @@
     "categoryOd": "ମସଲା",
     "categoryHi": "मसाले",
     "pack": "100 GRM",
-    "price": 40.0,
+    "price": 40,
     "image": ""
   },
   {
@@ -872,7 +872,7 @@
     "categoryOd": "ମସଲା",
     "categoryHi": "मसाले",
     "pack": "100 GRM",
-    "price": 70.0,
+    "price": 70,
     "image": ""
   },
   {
@@ -884,7 +884,7 @@
     "categoryOd": "ମସଲା",
     "categoryHi": "मसाले",
     "pack": "100 GRM",
-    "price": 60.0,
+    "price": 60,
     "image": ""
   },
   {
@@ -896,7 +896,7 @@
     "categoryOd": "ମସଲା",
     "categoryHi": "मसाले",
     "pack": "100 GRM",
-    "price": 70.0,
+    "price": 70,
     "image": ""
   },
   {
@@ -908,7 +908,7 @@
     "categoryOd": "ମସଲା",
     "categoryHi": "मसाले",
     "pack": "100 GRM",
-    "price": 70.0,
+    "price": 70,
     "image": ""
   },
   {
@@ -920,7 +920,7 @@
     "categoryOd": "ମସଲା",
     "categoryHi": "मसाले",
     "pack": "200 GRM",
-    "price": 60.0,
+    "price": 60,
     "image": ""
   }
 ]
