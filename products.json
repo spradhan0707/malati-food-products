@@ -409,7 +409,7 @@
   },
   {
     "id": "e60bd5772b97",
-    "name": "Bronyad Suji",
+    "name": "Barnyard Suji",
     "nameOd": "",
     "nameHi": "",
     "category": "Other",
@@ -921,6 +921,18 @@
     "categoryHi": "मसाले",
     "pack": "200 GRM",
     "price": 60,
+    "image": ""
+  },
+  {
+    "id": "b1303cb0-602c-4fc6-83e8-7e65d1e93c1c",
+    "name": "SARBATI ATTA 5KG (WHITE)",
+    "nameOd": "",
+    "nameHi": "",
+    "category": "Atta",
+    "categoryOd": "",
+    "categoryHi": "",
+    "pack": "5KG",
+    "price": 250,
     "image": ""
   }
 ]
